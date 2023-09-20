@@ -22,8 +22,14 @@
   </div>
   <div>
     <!-- <a href="https://anxious-grove.netlify.app/" target="_blank"> -->
-    <img class="card" src="/BUILDER-2f53.png">
+    <img class="card" src="https://madamadam.s3.us-east-2.amazonaws.com/BUILDER-2f53.png">
     <!-- </a> -->
+  </div>
+  <div class="center">
+    <p>For further exploration of the Narrative Context seen here, please visit STS at the link below, and enter the code "STS" upon arrival</p>
+    <a href="https://shepton-transmission-services.netlify.app/" target="_blank">
+      <img class="card" src="https://madamadam.s3.us-east-2.amazonaws.com/STS-3ff9.png">
+    </a>
   </div>
 </template>
 
